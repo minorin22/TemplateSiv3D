@@ -1,5 +1,5 @@
 # Choose your favorite compiler.
-CXX = c++ -std=c++17 -framework AudioToolbox -framework OpenAL
+CXX = c++ -std=c++2a -framework AudioToolbox -framework OpenAL
 # Application Name(Require same name as the main cpp file)
 NAME = Main
 # Path to siv3d_v0.4.3_macOS

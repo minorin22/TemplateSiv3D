@@ -1,5 +1,5 @@
 # TemplateSiv3D
-Template for Builting Siv3D project with Makefile.  
+Template for Building Siv3D project with Makefile.  
 Only available on Intel Mac (Not for M1 Mac)
 
 ## Usage
@@ -12,7 +12,7 @@ Only available on Intel Mac (Not for M1 Mac)
 % git clone your new repository from TemplateSiv3D
 ```
 
-### How to built and run
+### How to build and run
 
 ```sh
 % make
